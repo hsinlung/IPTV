@@ -1,0 +1,96 @@
+重庆卫视 FHD,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+河北影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+河北经济生活,http://live2.plus.hebtv.com/jjshx/playlist.m3u8
+河北农民,http://live3.plus.hebtv.com/nmpdx/playlist.m3u8
+河北都市,http://live3.plus.hebtv.com/hbdsx/playlist.m3u8
+河北少儿科教,http://live6.plus.hebtv.com/sekjx/playlist.m3u8
+河北公共,http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+福建·龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+福建·龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+福建·新罗电视,http://stream.lyxltv.com/xltv/sd/live.m3u8
+四川·成都公共HD,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
+四川·成都新闻HD,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
+四川·北川电视一套,http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
+四川·甘孜综合HD,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+四川·雅安公共HD,http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel2/playlist.m3u8#http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
+四川·雅安新闻HD,http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+四川·雅安综合HD,http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
+安徽·东至综合,http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+云南·昆明新闻综合,https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
+云南·昆明公共,https://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
+云南·昆明经济生活,https://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
+云南·昆明科学教育,https://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
+云南·昆明影视综艺,https://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
+江苏·靖江综合台,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+江苏·张家港民生HD,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+江苏·张家港综合HD,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+江苏·徐州3,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+江苏·徐州4,http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
+广西·南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+广西·南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西·南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+广西·南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+广西·马山电视台,http://hls.nntv.cn/nnlive/MSTV_A.m3u8
+广西·南丹电视台,http://hlsv2.quklive.com/live/1606365844464947/index.m3u8
+陕西·西安新闻综合,http://stream2.xiancity.cn/xatv1/playlist.m3u8#http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+陕西·西安都市,http://stream2.xiancity.cn/xatv2/playlist.m3u8#http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西·西安商务资讯,http://stream2.xiancity.cn/xatv3/playlist.m3u8
+陕西·西安影视,http://stream2.xiancity.cn/xatv4/playlist.m3u8#http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+陕西·西安丝路,http://stream2.xiancity.cn/xatv5/playlist.m3u8#http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+EDGEsport,https://edgesport-samsungus.amagi.tv/playlist.m3u8#https://edgesports-plex.amagi.tv/playlist.m3u8
+EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+澳門有線 CH1,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳門有線 CH2,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳門有線 CH3,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳視澳門台,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳视卫星HD,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳視葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8#http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳门微电影HD,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+AL Jazeera FHD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News US HD,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+BloombergTV HD,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+BloombergTV,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+ChannelNewsAsia FHD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+DW FHD,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Euronews HD,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+france24 FHD,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+france24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+NBC NEWS FHD,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NBC News Now FHD,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+NHKWorld FHD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+Sky Sports 24 HD,https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
